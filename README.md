@@ -46,7 +46,9 @@ Send a boost to shove your own marble ahead, or fire a banana or shell at whoeve
 
 Elimination rounds that thin the field each lap, or a single dash to the line, with a live leaderboard tracking who is leading.
 
-## Gameplay
+## What it looks like on stream
+
+<img src="stream.webp" alt="Marble Race running on a TikTok Live" width="320">
 
 [Watch Marble Race gameplay](https://cdn.livecade.io/games/marble-race.mp4)
 
